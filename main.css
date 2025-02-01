@@ -1,0 +1,28 @@
+#footer1
+{
+    background-color: rgb(96, 25, 123);
+}
+.box1
+{
+    height: 300px;
+    width: 19%;
+    box-shadow: 3px 3px 5px;
+    display:inline-block;
+    overflow: hidden;
+}
+#mbox
+{
+    box-sizing: border-box;
+    overflow: scroll;
+    background-color: beige;
+}
+#header
+{
+    background-color: rgb(177, 109, 27);
+}
+.tags
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+}
